@@ -15,7 +15,9 @@ Study React
 # Command
 
 Application manager: npm install -g create-react-app
+
 Create application: create-react-app <project name>
+
 Start project: npm run start
 
 # To do
