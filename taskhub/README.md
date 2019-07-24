@@ -28,3 +28,4 @@ Start project: npm run start
 - responsive (with primeng etc)
 - redux
 - crudl
+- tests
