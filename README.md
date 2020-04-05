@@ -1,1 +1,2 @@
-# learn-react
+# Project
+> Repository to React study
