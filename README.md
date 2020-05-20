@@ -1,2 +1,1 @@
-# Project
-> Repository to React study
+> React study repository
