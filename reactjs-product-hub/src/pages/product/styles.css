@@ -1,23 +1,27 @@
-.task-info {
+.product-info {
     max-width: 700px;
-    margin: 20px 20px 0;
+    margin: 20px auto 0;
     padding: 20px;
     background: #fff;
     border-radius: 5px;
     border: 1px solid #ddd;
 }
 
-.task-info h1 {
+.product-info h1 {
     font-size: 32px;
 }
 
-.task-info p {
+.product-info p {
     color: #666;
     line-height: 24px;
     margin-top: 5px;
 }
 
-.task-info a {
+.product-info a {
+    color: #069;
+}
+
+.product-info .actions a {
     height: 42px;
     border-radius: 5px;
     border: 2px solid #da552f;
@@ -33,7 +37,7 @@
     transition: all 0.2s;
 }
 
-.task-info a:hover {
+.product-info .actions a:hover {
     background-color: #da552f;
     color: #fff;
 }
